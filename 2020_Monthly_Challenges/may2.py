@@ -7,6 +7,11 @@
 
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
+        """
+        :type J: str
+        :type S: str
+        :rtype: int
+        """
         setJ = set(J)
         count = 0 
         

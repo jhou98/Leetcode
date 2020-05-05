@@ -1,5 +1,5 @@
 import unittest
-from may2_2020 import Solution
+from may2 import Solution
 
 class testSolution(unittest.TestCase): 
     global sol
